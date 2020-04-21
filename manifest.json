@@ -1,6 +1,6 @@
 {
-  "short_name": "RunFood Cocina",
-  "name": "RunFood para Cocinas",
+  "short_name": "RunFood - Take Order ADMIN",
+  "name": "Aplicación de Administración de RunFood - Take Orders",
   "icons": [
     {
       "src": "favicon.ico",
