@@ -1,6 +1,6 @@
 {
-  "short_name": "RunFood - Take Order ADMIN",
-  "name": "Aplicación de Administración de RunFood - Take Orders",
+  "short_name": "RunFood - Take Order",
+  "name": "Haz tu pedido a tus locales favoritos",
   "icons": [
     {
       "src": "favicon.ico",
